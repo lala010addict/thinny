@@ -112,6 +112,7 @@ h3 {
 	border-radius: 50%;
 	transition-duration: .25s;
 	z-index: 1;
+	text-align: center;
 }
 
 
