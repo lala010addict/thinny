@@ -24,7 +24,7 @@ Although I had no intention of attending, the rejection still bothered me a lot.
 2. TeamTreeHouse – JavaScript basics 
 
 3. JavaScript Road Trip Part 1 - Code School
-https://www.codeschool.com/courses/javascript-road-trip-part-1
+ <a href ="https://www.codeschool.com/courses/javascript-road-trip-part-1</a>
 
 4. JavaScript Koans - helpful to check if you understand JS concepts, but doesn't really give you much practice on how to write them yourself. 
 
@@ -33,28 +33,29 @@ https://www.codeschool.com/courses/javascript-road-trip-part-1
 6. Codesmith meetups where they teach you JavaScript-The Hard Parts : Callbacks & Higher Order Functions
 Closure, Scope and Execution Context
 Object Oriented JavaScript - Prototype chain, 'new' and 'this' keywords
-http://www.meetup.com/Codesmith/
+ <a href ="http://www.meetup.com/Codesmith/</a>
 
-7.［Chinese ］watch JavaScript tutorials by 李炎恢
-http://www.ycku.com/javascript/
+7. watch JavaScript tutorials by 李炎恢 (Chinese)
+ <a href ="http://www.ycku.com/javascript/</a>
 you can also find a lot of other useful tutorials  on his cloud: 
-http://pan.baidu.com/share/home?uk=4278436023#category/type=0
+ <a href ="http://pan.baidu.com/share/home?uk=4278436023#category/type=0</a>
 
-8. ［Chinese］精通JavaScript开发 tutorials － very easy to understand
-http://study.163.com/course/courseMain.htm?courseId=224014
+8. 精通JavaScript开发 tutorials － very easy to understand (Chinese)
+ <a href ="http://study.163.com/course/courseMain.htm?courseId=224014</a>
 
-9.  youtube videos by mpjme on callbacks, other higher order functions and other difficult concepts. 
-https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+9. youtube videos by mpjme on callbacks, other higher order functions and other difficult concepts. 
+ <a href ="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q</a>
 
-10. http://coderbyte.com/ - good practice, but don't sweat it if you can't solve a problem. I still can't do all of it. 
+10.  <a href ="http://coderbyte.com/</a> - good practice, but don't sweat it if you can't solve a problem. I still can't do all of it. 
 
-11. http://www.codewars.com/ - more coding problems.
+11.  <a href ="http://www.codewars.com/</a> - more coding problems.
 
 12. <a href ="https://www.eventbrite.com/e/remote-prep-pacific-front-end-web-dev-basics-online-part-time-morning-pacific-tickets-17944479421?utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=eventname">Remote Prep hosted by Hack Reactor: Front End Web Dev Basics</a>
-This is a four-week program that designed by Hack Reactor to help you prepare for the interview. I think this was the most helpful one out of all the things I studied. I think you should attend this course if you are serious about attending HR. They really help to narrow down what you need to know for the interview. Without it, I’d be studying all over the place. the instructor was super helpful; he was always available for help. The support from the classmates was priceless; four of us already got accepted before the program even ended. The tuition of this prep course will also go towards to your HR tuition once you get in, so there is really no reason not to attend.  
+
+        This is a four-week program that designed by Hack Reactor to help you prepare for the interview. I think this was the most helpful one out of all the things I studied. I think you should attend this course if you are serious about attending HR. They really help to narrow down what you need to know for the interview. Without it, I’d be studying all over the place. the instructor was super helpful; he was always available for help. The support from the classmates was priceless; four of us already got accepted before the program even ended. The tuition of this prep course will also go towards to your HR tuition once you get in, so there is really no reason not to attend.  
 
 13. this post on quora and the 1st answer by Anthony Phillips, CEO at Hack Reactor
-https://www.quora.com/Has-the-interview-process-changed-for-Hack-Reactor-as-of-01-24-2015
+ <a href ="https://www.quora.com/Has-the-interview-process-changed-for-Hack-Reactor-as-of-01-24-2015</a>
 
 14. Support from my husband, my friend Amelie, and my grandma- only these three people in my life weren't naysayers. they constantly reassure me that I can totally do this whenever I feel frustrated and discouraged by myself or other people. 
 
@@ -65,7 +66,8 @@ This one is worth watching: <a href = "http://www.ted.com/talks/angela_lee_duckw
 
 Although I got in HR, this is really just the 1st step of the long road ahead of me. The journey definitely hasn't been easy, but I have no regrets so far. Now that I am almost done with my prework, I am heading to India for a quick vacation tomorrow before this intensive 3-month starts. 
 
-##Follow my travels and food adventures on http://www.bunnyandporkbelly.com/
+##Follow my travels and food adventures on 
+ <a href ="http://www.bunnyandporkbelly.com/</a>
 
 
 
