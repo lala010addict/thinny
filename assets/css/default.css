@@ -554,7 +554,7 @@ pre code {
 .divider {
   margin: 10px auto;
 
-  border-top: 1px solid $divider-color;
+  border-top: 1px solid #ECECEC;
 
   &.long {
     width: 30%;
@@ -566,7 +566,7 @@ pre code {
     width: 30%;
     margin: 1.7rem 0;
 
-    border-top: 1px solid $gray-light;
+    border-top: 1px solid #ECECEC;
   }
 }
 
