@@ -4,17 +4,17 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            JieYing Peng
 tagline:          'blog'
-description:      'My personal blog.'
-url:              http://camporez.github.io
+description:      'My Journey from Accountant to Front-End Developer.'
+url:              http://lala010addict.github.io
 baseurl:          
 commentsystem:    google
-disqus:           example
+disqus:           jieyingpeng
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           JieYing Peng
+  url:            https://jieyingpeng.ghost.io/
 
 paginate:         5
 
@@ -24,11 +24,11 @@ cover:            /assets/images/cover.jpg
 
 social:
   - icon:         twitter
-    url:          https://twitter.com/iancamporez
+    url:          https://twitter.com/bunnynporkbelly
     desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/lala010addict
     desc:         Fork me on github
 
   - icon:         googleplus-alt
@@ -36,7 +36,7 @@ social:
     desc:         Add me on google+
 
   - icon:         feed
-    url:          http://camporez.github.io/atom.xml
+    url:          http://lala010addict.github.io/atom.xml
     desc:         Subscribe to my feed
 
 menu:
@@ -47,8 +47,8 @@ menu:
     url:          /about
 
 copyright:
-  author:         Camporez
-  url:            http://camporez.github.io
+  author:        JieYing Peng
+  url:            http://lala010addict.github.io
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 
