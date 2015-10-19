@@ -55,7 +55,7 @@ you can also find a lot of other useful tutorials  on his cloud:
 This is a four-week program that designed by Hack Reactor to help you prepare for the interview. I think this was the most helpful one out of all the things I studied. I think you should attend this course if you are serious about attending HR. They really help to narrow down what you need to know for the interview. Without it, I’d be studying all over the place. the instructor was super helpful; he was always available for help. The support from the classmates was priceless; four of us already got accepted before the program even ended. The tuition of this prep course will also go towards to your HR tuition once you get in, so there is really no reason not to attend.  
 
 13. this post on quora and the 1st answer by Anthony Phillips, CEO at Hack Reactor
- <a href ="https://www.quora.com/Has-the-interview-process-changed-for-Hack-Reactor-as-of-01-24-2015></a>
+ <a href ="https://www.quora.com/Has-the-interview-process-changed-for-Hack-Reactor-as-of-01-24-2015"></a>
 
 14. Support from my husband, my friend Amelie, and my grandma- only these three people in my life weren't naysayers. they constantly reassure me that I can totally do this whenever I feel frustrated and discouraged by myself or other people. 
 
@@ -67,7 +67,7 @@ This one is worth watching: <a href = "http://www.ted.com/talks/angela_lee_duckw
 Although I got in HR, this is really just the 1st step of the long road ahead of me. The journey definitely hasn't been easy, but I have no regrets so far. Now that I am almost done with my prework, I am heading to India for a quick vacation tomorrow before this intensive 3-month starts. 
 
 ##Follow my travels and food adventures on 
- <a href ="http://www.bunnyandporkbelly.com/></a>
+ [http://www.bunnyandporkbelly.com/]("http://www.bunnyandporkbelly.com/")
 
 
 
