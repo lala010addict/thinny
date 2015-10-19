@@ -105,13 +105,13 @@ h3 {
 }
 
 #home-des {
-	left: 35%;
+	/*left: 35%;*/
 	top: 60%;
 	background-repeat: no-repeat;
 	position: relative;
-	border-radius: 50%;
-	transition-duration: .25s;
-	z-index: 1;
+/*	border-radius: 50%;
+	transition-duration: .25s;*/
+	/*z-index: 1;*/
 	text-align: center;
 }
 
