@@ -9,7 +9,7 @@ tagline:          'blog'
 description:      'My Journey from Accountant to Front-End Developer.'
 url:              http://lala010addict.github.io
 baseurl:          
-commentsystem:    google
+commentsystem:    disqus
 disqus:           jieyingpeng
 
 author:
