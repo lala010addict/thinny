@@ -29,19 +29,22 @@ social:
     url:          https://github.com/lala010addict
     desc:         Fork me on github
 
-  - icon:        instagram
+  - icon:         instagram
     url:          https://instagram.com/lalalala010/
     desc:         
 
-      - icon:        linkedin
+  - icon:         flickr
+    url:          https://www.flickr.com/photos/lala010
+
+  - icon:         linkedin
     url:          https://www.linkedin.com/in/jieyingpeng
 
-      - icon:         twitter
+  - icon:         twitter
     url:          https://twitter.com/bunnynporkbelly
     desc:         Follow me on twitter
 
-      - icon:     mail
-    url:          jieyingpeng010@gmail.com
+  - icon:         mail
+    url:          mailto:jieyingpeng010@gmail.com
 
 
   - icon:         feed
