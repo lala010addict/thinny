@@ -69,11 +69,11 @@ Although I got in HR, this is really just the 1st step of the long road ahead of
  [http://www.bunnyandporkbelly.com/](http://www.bunnyandporkbelly.com/)
 
 
-```javascript
+<pre><code>
 var apple = 'a';
 var apple = 'a';
 var apple = 'a';
-```
+</code></pre>
 
 
 
