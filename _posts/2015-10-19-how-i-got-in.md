@@ -46,12 +46,11 @@ you can also find a lot of other useful tutorials  on his cloud:
 9. youtube videos by mpjme on callbacks, other higher order functions and other difficult concepts. 
  [https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
-10.  [http://coderbyte.com/](http://coderbyte.com/) - good practice, but don't sweat it if you can't solve a problem. I still can't do all of it. 
+10. [http://coderbyte.com/](http://coderbyte.com/) - good practice, but don't sweat it if you can't solve a problem. I still can't do all of it. 
 
-11.  [http://www.codewars.com/](http://www.codewars.com/) - more coding problems.
+11. [http://www.codewars.com/](http://www.codewars.com/) - more coding problems.
 
 12. [Remote Prep hosted by Hack Reactor: Front End Web Dev Basics](https://www.eventbrite.com/e/remote-prep-pacific-front-end-web-dev-basics-online-part-time-morning-pacific-tickets-17944479421?utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=eventname0)
-
 This is a four-week program that designed by Hack Reactor to help you prepare for the interview. I think this was the most helpful one out of all the things I studied. I think you should attend this course if you are serious about attending HR. They really help to narrow down what you need to know for the interview. Without it, I’d be studying all over the place. the instructor was super helpful; he was always available for help. The support from the classmates was priceless; four of us already got accepted before the program even ended. The tuition of this prep course will also go towards to your HR tuition once you get in, so there is really no reason not to attend.  
 
 13. this post on quora and the 1st answer by Anthony Phillips, CEO at Hack Reactor
@@ -68,6 +67,7 @@ Although I got in HR, this is really just the 1st step of the long road ahead of
 
 ##Follow my travels and food adventures on 
  [http://www.bunnyandporkbelly.com/](http://www.bunnyandporkbelly.com/)
+
 
 
 
