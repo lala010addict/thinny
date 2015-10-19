@@ -554,3 +554,23 @@ pre code {
 	margin-top: 60px;
 	border-top: 1px solid #EEE;
 }
+
+.divider {
+  margin: 10px auto;
+
+  border-top: 1px solid $divider-color;
+
+  &.long {
+    width: 30%;
+  }
+  &.short {
+    width: 15%;
+  }
+  &.post {
+    width: 30%;
+    margin: 1.7rem 0;
+
+    border-top: 1px solid $gray-light;
+  }
+}
+
