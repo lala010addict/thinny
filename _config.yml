@@ -23,17 +23,29 @@ icon:             /assets/images/icon.png
 cover:            /assets/images/cover.jpg
 
 social:
-  - icon:         twitter
-    url:          https://twitter.com/bunnynporkbelly
-    desc:         Follow me on twitter
+
 
   - icon:         github
     url:          https://github.com/lala010addict
     desc:         Fork me on github
 
-  - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
-    desc:         Add me on google+
+  - icon:        instagram
+    url:          https://instagram.com/lalalala010/
+    desc:         
+
+      - icon:        linkedin
+    url:          https://www.linkedin.com/in/jieyingpeng
+
+      - icon:        flickr
+    url:          https://www.flickr.com/photos/lala010
+
+      - icon:         twitter
+    url:          https://twitter.com/bunnynporkbelly
+    desc:         Follow me on twitter
+
+      - icon:     mail
+    url:          jieyingpeng010@gmail.com
+
 
   - icon:         feed
     url:          http://lala010addict.github.io/atom.xml
